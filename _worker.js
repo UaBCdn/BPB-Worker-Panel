@@ -10,7 +10,7 @@ import { connect } from 'cloudflare:sockets';
 let userID = '4f1d2dab-802e-464d-a510-5c6ce70fb367';
 
 // https://www.nslookup.io/domains/bestproxy.030101.xyz/dns-records
-const proxyIPs= ['fd-pbp.1992.pp.ua'];
+const proxyIPs= ['fd.pbp.1992.pp.ua'];
 
 const defaultHttpPorts = ['80', '8080', '2052', '2082', '2086', '2095', '8880'];
 const defaultHttpsPorts = ['443', '8443', '2053', '2083', '2087', '2096'];
